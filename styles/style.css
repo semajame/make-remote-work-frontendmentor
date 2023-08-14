@@ -306,7 +306,7 @@ main .right-content img {
     font-size: clamp(1rem, 8vw, 0.925rem);
   }
   main .left-content .client-container {
-    padding: 1.5rem;
+    padding: 1rem;
     margin-top: 3.5rem;
   }
   main .left-content .client-container img {
